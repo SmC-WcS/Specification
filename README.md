@@ -16,6 +16,6 @@ The present document contains the basic information for any application that nee
 
 ## Overview
 
+The World creator's Society has been founded in ...... It's purpose is....
 
-\*\*\*\*
 
